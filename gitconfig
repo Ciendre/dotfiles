@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nicolas.nguon@checkmyguest.fr
+	name = nicolas nguon
